@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "name": "'hitc public node",
+      "name": "hitc official public node",
       "url": "109.237.212.60",
       "port": 11211,
       "ssl": false
