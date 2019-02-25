@@ -1,6 +1,12 @@
 {
   "nodes": [
     {
+      "name": "cryptomine hitc public node",
+      "url": "hitcnode.cryptomine.cx",
+      "port": 11211,
+      "ssl": false
+    },
+    {
       "name": "hitc official public node",
       "url": "109.237.212.60",
       "port": 11211,
