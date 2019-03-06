@@ -7,6 +7,12 @@
       "ssl": false
     },
     {
+      "name": "enigma-mining.de hitc public node",
+      "url": "hitcnode.enigma-mining.de",
+      "port": 11213,
+      "ssl": false
+    },
+    {
       "name": "hitc official public node",
       "url": "109.237.212.60",
       "port": 11211,
