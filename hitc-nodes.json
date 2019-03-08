@@ -1,24 +1,22 @@
 {
   "nodes": [
     {
-      "name": "cryptomine hitc public node",
+      "name": "cryptomine hitc public node - fee: 0.0 HITC",
       "url": "hitcnode.cryptomine.cx",
       "port": 11211,
       "ssl": false
     },
     {
-      "name": "enigma-mining.de hitc public node",
+      "name": "enigma-mining.de hitc public node - fee: 0.0 HITC",
       "url": "hitcnode.enigma-mining.de",
       "port": 11213,
       "ssl": false
     },
     {
-      "name": "hitc official public node",
+      "name": "hitc official public node - fee: 0.0 HITC",
       "url": "109.237.212.60",
       "port": 11211,
       "ssl": false
-    },
-    
-    
+    },    
   ]
 }
