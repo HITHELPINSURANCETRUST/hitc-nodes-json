@@ -9,12 +9,12 @@
     {
       "name": "enigma-mining.de hitc public node - fee: 0.0 HITC",
       "url": "hitcnode.enigma-mining.de",
-      "port": 11213,
+      "port": 11211,
       "ssl": false
     },
     {
       "name": "hitc official public node - fee: 0.0 HITC",
-      "url": "109.237.212.60",
+      "url": "node.hitrust.id",
       "port": 11211,
       "ssl": false
     },    
